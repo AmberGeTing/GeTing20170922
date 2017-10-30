@@ -67,7 +67,6 @@ public class MainActivity extends AppCompatActivity {
         });
         //设置侧啦
         //点击图片弹出侧啦
-        //模拟数据
         llist.add("客服热线");
         llist.add("营业部网点");
         llist.add("咨询");
